@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Open Streamlit App](https://your-app-link.streamlit.app/)**
+🔗 **https://kishan2511-upi-transaction-failure-prediction-app-fv8njm.streamlit.app/**
 
 ---
 
